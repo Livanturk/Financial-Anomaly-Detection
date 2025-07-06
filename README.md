@@ -92,9 +92,3 @@ seaborn
 
 * Dataset: [PaySim - Kaggle](https://www.kaggle.com/datasets/ealaxi/paysim1)
 * SHAP Explainability: Lundberg & Lee, 2017
-
----
-
-## 🧾 License
-
-MIT License (Optional)
