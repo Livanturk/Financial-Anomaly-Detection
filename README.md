@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project simulates a real-world **financial fraud detection system** for internal audit teams. It uses the PaySim dataset to detect anomalous transactions using a robust ML pipeline with production-quality standards.
+This project tries to simulates a real-world **financial fraud detection system**. It uses the PaySim dataset to detect anomalous transactions using a robust ML pipeline with production-quality standards.
 
 ---
 
